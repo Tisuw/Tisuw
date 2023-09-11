@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tisuw
-- 👀 I’m interested in Networking and Virtual Reality
+- 👀 I’m interested in Networking and Artifical Intelligence
 - 🌱 I’m studying Computer Science at Heriot-Watt University
-- 💞️ I’m looking for a Summer 2023 Internship in Edinburgh
+- 💞️ I’m looking for a Graduate Job 2024 in Edinburgh
 - 📫 How to reach me contact@gwcampbell.uk
 
 <!---
